@@ -19,6 +19,7 @@ body {
 main {
     height: 100vh;
     position: relative;
+    background-position: center center;
 }
 section#telefone {
     position: absolute;
